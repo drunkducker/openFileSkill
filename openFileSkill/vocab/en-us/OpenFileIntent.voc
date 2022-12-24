@@ -1,6 +1,0 @@
----
-OpenFileIntent:
-  - open the file [filename] in a text editor
-  - open [filename] in a text editor
-  - edit [filename]
-  - start [filename] in a text editor
